@@ -1,2 +1,0 @@
-# rishikashukla
-Personal website
